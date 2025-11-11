@@ -22,7 +22,7 @@ const SECRET = BOT_SECRET || '';
 const ADMIN_UID = String(ADMIN_UID || '');
 const nfd = NFD;
 
-const KEYWORDS = ['诈骗', '投资', '兼职', '返利'];
+const KEYWORDS = ['单人日赚', '长期合作的来', '无需押金', '赚钱'];
 const MAX_HIT = 3;
 const MAX_TRY = 3;
 const VERIFY_TTL = 600;
